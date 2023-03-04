@@ -24,3 +24,11 @@ You can read the documentation [here](http://stacksherpa.github.com/billingstack
     WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
     License for the specific language governing permissions and limitations under
     the License.
+    #users are not subcribtion
+    #subscription renewed on killbill
+        phase evergreen
+        unlimited
+        duration unlimited
+        daily
+        billing period not specified
+    
